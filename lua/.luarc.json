@@ -1,0 +1,11 @@
+{
+    "diagnostics.globals": [
+        "vim",
+        "lua",
+        "EOF",
+        "capabilities"
+    ],
+    "diagnostics.disable": [
+        "unused-local"
+    ]
+}
