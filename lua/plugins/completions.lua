@@ -18,7 +18,7 @@ return {
 			cmp.setup({
 				snippet = {
 					expand = function(args)
-						vim.fn["vsnip#anonymous"](args.body)
+						require("luasnip").lsp_expand(args.body)
 					end,
 				},
 				window = {
@@ -33,7 +33,7 @@ return {
 					["<CR>"] = cmp.mapping.confirm({ select = true }),
 				}),
 				sources = cmp.config.sources({
-					-- { name = "luasnip" }, -- For luasnip users.
+					{ name = "luasnip" }, -- For luasnip users.
 					{ name = "nvim_lsp" },
 					{ name = "vsnip" }, -- For vsnip users.
 					-- { name = 'ultisnips' }, -- For ultisnips users.
