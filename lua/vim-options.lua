@@ -8,3 +8,6 @@ vim.cmd("set tabstop=2")
 -- moving line
 vim.cmd("nnoremap <A-j> :m-2<CR>==")
 vim.cmd("nnoremap <A-k> :m+<CR>==")
+
+vim.cmd("nnoremap ts 0")
+vim.cmd("nnoremap te $")

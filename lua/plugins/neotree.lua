@@ -7,7 +7,7 @@ return {
       "MunifTanjim/nui.nvim",
     },
     config = function()
-      vim.cmd('nnoremap <C-b> :Neotree toggle left<CR>')
+      vim.cmd('nnoremap B :Neotree toggle left<CR>')
     end
   }
 
