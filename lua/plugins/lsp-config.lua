@@ -8,14 +8,14 @@ return {
 	{
 		"williamboman/mason-lspconfig.nvim",
 		lazy = false,
-		opts = {
-			auto_install = true,
-		},
-		--config = function()
-		--require("mason-lspconfig").setup({
-		--ensure_installed = { "lua_ls", "tsserver" },
-		--})
-		--end,
+		-- opts = {
+		-- 	auto_install = true,
+		-- },
+		config = function()
+			require("mason-lspconfig").setup({
+				ensure_installed = { "lua_ls", "tsserver", "jdtls" },
+			})
+		end,
 	},
 	{
 		"neovim/nvim-lspconfig",
@@ -24,10 +24,14 @@ return {
 			local capabilties = require("cmp_nvim_lsp").default_capabilities()
 
 			local lspconfig = require("lspconfig")
+
 			lspconfig.lua_ls.setup({
 				capabilities = capabilities,
 			})
 			lspconfig.tsserver.setup({
+				capabilities = capabilities,
+			})
+			lspconfig.jdtls.setup({
 				capabilities = capabilities,
 			})
 

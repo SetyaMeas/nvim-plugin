@@ -3,7 +3,8 @@
         "vim",
         "lua",
         "EOF",
-        "capabilities"
+        "capabilities",
+        "theme"
     ],
     "diagnostics.disable": [
         "unused-local"

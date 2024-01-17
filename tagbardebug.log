@@ -1,0 +1,259 @@
+
+
+NVIM v0.9.4
+Build type: RelWithDebInfo
+LuaJIT 2.1.1692716794
+Compilation: /usr/bin/cc -O2 -g -Og -g -Wall -Wextra -pedantic -Wno-unused-parameter -Wstrict-prototypes -std=gnu99 -Wshadow -Wconversion -Wvla -Wdouble-promotion -Wmissing-noreturn -Wmissing-format-attribute -Wmissing-prototypes -fno-common -Wno-unused-result -Wimplicit-fallthrough -fdiagnostics-color=always -fstack-protector-strong -DUNIT_TESTING -DINCLUDE_GENERATED_DECLARATIONS -D_GNU_SOURCE -I/build/nvim/parts/nvim/build/.deps/usr/include/luajit-2.1 -I/usr/include -I/build/nvim/parts/nvim/build/.deps/usr/include -I/build/nvim/parts/nvim/build/build/src/nvim/auto -I/build/nvim/parts/nvim/build/build/include -I/build/nvim/parts/nvim/build/build/cmake.config -I/build/nvim/parts/nvim/build/src -I/usr/include -I/build/nvim/parts/nvim/build/.deps/usr/include -I/build/nvim/parts/nvim/build/.deps/usr/include -I/build/nvim/parts/nvim/build/.deps/usr/include -I/build/nvim/parts/nvim/build/.deps/usr/include -I/build/nvim/parts/nvim/build/.deps/usr/include -I/build/nvim/parts/nvim/build/.deps/usr/include
+
+   system vimrc file: "$VIM/sysinit.vim"
+  fall-back for $VIM: "/usr/share/nvim"
+
+Run :checkhealth for more info1970-01-01 07:34:53.015026: goto_win(): 1wincmd w, 1
+1970-01-01 07:34:53.015168: goto_win(): 2wincmd w, 1
+1970-01-01 07:34:53.015257: goto_win(): 1wincmd w, 1
+1970-01-01 07:34:53.015361: goto_win(): 2wincmd w, 0
+1970-01-01 07:34:53.017780: AutoUpdate called [/home/setya/.config/nvim/__Tagbar__.1]
+1970-01-01 07:34:53.017901: In Tagbar window, stopping processing
+1970-01-01 07:34:53.018089: goto_win(): wincmd p, 0
+1970-01-01 07:34:53.020510: AutoUpdate called [/home/setya/.config/nvim/lua/plugins/lsp-config.lua]
+1970-01-01 07:34:53.020626: Vim filetype: 'lua', sanitized filetype: 'lua'
+1970-01-01 07:34:53.020676: Checking if file is valid [/home/setya/.config/nvim/lua/plugins/lsp-config.lua]
+1970-01-01 07:34:53.020807: File data seems up to date [/home/setya/.config/nvim/lua/plugins/lsp-config.lua]
+1970-01-01 07:34:53.020931: Setting current file [/home/setya/.config/nvim/lua/plugins/lsp-config.lua]
+1970-01-01 07:34:53.021138: goto_win(): wincmd p, 1
+1970-01-01 07:34:53.021256: goto_win(): 2wincmd w, 1
+1970-01-01 07:34:53.021399: Highlight pattern: '/^\%4l\s*[▾▸ ][-+# ]\?\zs\Vconfig \m\ze/'
+1970-01-01 07:34:53.021466: goto_win(): 2wincmd w, 1
+1970-01-01 07:34:53.021524: goto_win(): 1wincmd w, 1
+1970-01-01 07:34:53.024509: goto_win(): wincmd p, 1
+1970-01-01 07:34:53.024676: goto_win(): 2wincmd w, 1
+1970-01-01 07:34:53.024886: goto_win(): 2wincmd w, 1
+1970-01-01 07:34:53.024979: goto_win(): 1wincmd w, 1
+1970-01-01 07:34:53.025041: AutoUpdate finished successfully
+1970-01-01 07:34:53.025470: Jumping to line 14
+1970-01-01 07:34:53.025514: Searching for pattern "\V\^\C		config = function()\$"
+1970-01-01 07:34:53.025767: goto_win(): wincmd p, 1
+1970-01-01 07:34:53.025834: goto_win(): 2wincmd w, 1
+1970-01-01 07:34:53.025941: Highlight pattern: '/^\%5l\s*[▾▸ ][-+# ]\?\zs\Vconfig \m\ze/'
+1970-01-01 07:34:53.026007: goto_win(): 2wincmd w, 1
+1970-01-01 07:34:53.026063: goto_win(): 1wincmd w, 1
+1970-01-01 07:34:53.029066: goto_win(): 1wincmd w, 0
+1970-01-01 07:35:03.679068: ToggleWindow called
+1970-01-01 07:35:03.679204: CloseWindow called
+1970-01-01 07:35:03.679455: goto_win(): 2wincmd w, 0
+1970-01-01 07:35:03.682350: AutoUpdate called [/home/setya/.config/nvim/__Tagbar__.1]
+1970-01-01 07:35:03.682553: In Tagbar window, stopping processing
+1970-01-01 07:35:03.686454: AutoUpdate called [/home/setya/.config/nvim/lua/plugins/lsp-config.lua]
+1970-01-01 07:35:03.686647: Vim filetype: 'lua', sanitized filetype: 'lua'
+1970-01-01 07:35:03.686742: Checking if file is valid [/home/setya/.config/nvim/lua/plugins/lsp-config.lua]
+1970-01-01 07:35:03.687014: File data seems up to date [/home/setya/.config/nvim/lua/plugins/lsp-config.lua]
+1970-01-01 07:35:03.687210: Setting current file [/home/setya/.config/nvim/lua/plugins/lsp-config.lua]
+1970-01-01 07:35:03.687627: AutoUpdate finished successfully
+1970-01-01 07:35:03.687794: goto_win(): 1wincmd w, 0
+1970-01-01 07:35:03.687903: CloseWindow finished
+1970-01-01 07:35:04.368698: ToggleWindow called
+1970-01-01 07:35:04.368861: OpenWindow called with flags: ''
+1970-01-01 07:35:04.371645: AutoUpdate called [/home/setya/.config/nvim/__Tagbar__.1]
+1970-01-01 07:35:04.371750: Still opening window, stopping processing
+1970-01-01 07:35:04.372253: InitWindow called with autoclose: 0
+1970-01-01 07:35:04.377219: AutoUpdate called [/home/setya/.config/nvim/__Tagbar__.1]
+1970-01-01 07:35:04.377289: In Tagbar window, stopping processing
+1970-01-01 07:35:04.377836: InitWindow finished
+1970-01-01 07:35:04.377968: AutoUpdate called [/home/setya/.config/nvim/lua/plugins/lsp-config.lua]
+1970-01-01 07:35:04.378078: Vim filetype: 'lua', sanitized filetype: 'lua'
+1970-01-01 07:35:04.378112: Checking if file is valid [/home/setya/.config/nvim/lua/plugins/lsp-config.lua]
+1970-01-01 07:35:04.378219: File data seems up to date [/home/setya/.config/nvim/lua/plugins/lsp-config.lua]
+1970-01-01 07:35:04.378293: RenderContent called
+1970-01-01 07:35:04.378384: Redisplaying file [/home/setya/.config/nvim/lua/plugins/lsp-config.lua]
+1970-01-01 07:35:04.378656: PrintKinds called
+1970-01-01 07:35:04.378766: Printing kind: f, number of (top-level) tags: 3
+1970-01-01 07:35:04.379571: Setting current file [/home/setya/.config/nvim/lua/plugins/lsp-config.lua]
+1970-01-01 07:35:04.379833: Highlight pattern: '/^\%4l\s*[▾▸ ][-+# ]\?\zs\Vconfig \m\ze/'
+1970-01-01 07:35:04.383034: AutoUpdate finished successfully
+1970-01-01 07:35:04.383458: RenderContent called
+1970-01-01 07:35:04.383651: Redisplaying file [/home/setya/.config/nvim/lua/plugins/lsp-config.lua]
+1970-01-01 07:35:04.383937: PrintKinds called
+1970-01-01 07:35:04.384010: Printing kind: f, number of (top-level) tags: 3
+1970-01-01 07:35:04.385710: Highlight pattern: '/^\%5l\s*[▾▸ ][-+# ]\?\zs\Vconfig \m\ze/'
+1970-01-01 07:35:04.389092: AutoUpdate called [/home/setya/.config/nvim/lua/plugins/lsp-config.lua]
+1970-01-01 07:35:04.389197: Vim filetype: 'lua', sanitized filetype: 'lua'
+1970-01-01 07:35:04.389243: Checking if file is valid [/home/setya/.config/nvim/lua/plugins/lsp-config.lua]
+1970-01-01 07:35:04.389378: File data seems up to date [/home/setya/.config/nvim/lua/plugins/lsp-config.lua]
+1970-01-01 07:35:04.389511: Setting current file [/home/setya/.config/nvim/lua/plugins/lsp-config.lua]
+1970-01-01 07:35:04.389737: goto_win(): wincmd p, 1
+1970-01-01 07:35:04.389821: goto_win(): 2wincmd w, 1
+1970-01-01 07:35:04.389985: goto_win(): 2wincmd w, 1
+1970-01-01 07:35:04.390124: goto_win(): 1wincmd w, 1
+1970-01-01 07:35:04.390182: AutoUpdate finished successfully
+1970-01-01 07:35:04.390397: OpenWindow finished
+1970-01-01 07:35:04.390489: ToggleWindow finished
+1970-01-01 07:35:05.755605: AutoUpdate called [/home/setya/.config/nvim/__Tagbar__.1]
+1970-01-01 07:35:05.756065: In Tagbar window, stopping processing
+1970-01-01 07:35:08.131698: goto_win(): 1wincmd w, 1
+1970-01-01 07:35:08.131826: goto_win(): 2wincmd w, 0
+1970-01-01 07:35:08.134178: AutoUpdate called [/home/setya/.config/nvim/__Tagbar__.1]
+1970-01-01 07:35:08.134315: In Tagbar window, stopping processing
+1970-01-01 07:35:08.134517: goto_win(): wincmd p, 0
+1970-01-01 07:35:08.136820: AutoUpdate called [/home/setya/.config/nvim/lua/plugins/lsp-config.lua]
+1970-01-01 07:35:08.136921: Vim filetype: 'lua', sanitized filetype: 'lua'
+1970-01-01 07:35:08.136968: Checking if file is valid [/home/setya/.config/nvim/lua/plugins/lsp-config.lua]
+1970-01-01 07:35:08.137105: File data seems up to date [/home/setya/.config/nvim/lua/plugins/lsp-config.lua]
+1970-01-01 07:35:08.137241: Setting current file [/home/setya/.config/nvim/lua/plugins/lsp-config.lua]
+1970-01-01 07:35:08.137475: goto_win(): wincmd p, 1
+1970-01-01 07:35:08.137568: goto_win(): 2wincmd w, 1
+1970-01-01 07:35:08.137726: goto_win(): 2wincmd w, 1
+1970-01-01 07:35:08.137793: goto_win(): 1wincmd w, 1
+1970-01-01 07:35:08.137847: AutoUpdate finished successfully
+1970-01-01 07:35:08.138067: Jumping to line 23
+1970-01-01 07:35:08.138119: Searching for pattern "\V\^\C		config = function()\$"
+1970-01-01 07:35:08.138458: goto_win(): wincmd p, 1
+1970-01-01 07:35:08.138554: goto_win(): 2wincmd w, 1
+1970-01-01 07:35:08.138701: Highlight pattern: '/^\%6l\s*[▾▸ ][-+# ]\?\zs\Vconfig \m\ze/'
+1970-01-01 07:35:08.138789: goto_win(): 2wincmd w, 1
+1970-01-01 07:35:08.138862: goto_win(): 1wincmd w, 0
+1970-01-01 07:35:08.141432: AutoUpdate called [/home/setya/.config/nvim/lua/plugins/lsp-config.lua]
+1970-01-01 07:35:08.141546: Vim filetype: 'lua', sanitized filetype: 'lua'
+1970-01-01 07:35:08.141598: Checking if file is valid [/home/setya/.config/nvim/lua/plugins/lsp-config.lua]
+1970-01-01 07:35:08.141750: File data seems up to date [/home/setya/.config/nvim/lua/plugins/lsp-config.lua]
+1970-01-01 07:35:08.141898: Setting current file [/home/setya/.config/nvim/lua/plugins/lsp-config.lua]
+1970-01-01 07:35:08.142152: goto_win(): wincmd p, 1
+1970-01-01 07:35:08.142262: goto_win(): 2wincmd w, 1
+1970-01-01 07:35:08.142442: goto_win(): 2wincmd w, 1
+1970-01-01 07:35:08.142517: goto_win(): 1wincmd w, 1
+1970-01-01 07:35:08.142576: AutoUpdate finished successfully
+1970-01-01 07:35:11.212857: ToggleWindow called
+1970-01-01 07:35:11.213199: CloseWindow called
+1970-01-01 07:35:11.213702: goto_win(): 2wincmd w, 0
+1970-01-01 07:35:11.221772: AutoUpdate called [/home/setya/.config/nvim/__Tagbar__.1]
+1970-01-01 07:35:11.222253: In Tagbar window, stopping processing
+1970-01-01 07:35:11.232609: AutoUpdate called [/home/setya/.config/nvim/lua/plugins/lsp-config.lua]
+1970-01-01 07:35:11.233490: Vim filetype: 'lua', sanitized filetype: 'lua'
+1970-01-01 07:35:11.233678: Checking if file is valid [/home/setya/.config/nvim/lua/plugins/lsp-config.lua]
+1970-01-01 07:35:11.234778: File data seems up to date [/home/setya/.config/nvim/lua/plugins/lsp-config.lua]
+1970-01-01 07:35:11.235198: Setting current file [/home/setya/.config/nvim/lua/plugins/lsp-config.lua]
+1970-01-01 07:35:11.236643: AutoUpdate finished successfully
+1970-01-01 07:35:11.236956: goto_win(): 1wincmd w, 0
+1970-01-01 07:35:11.237230: CloseWindow finished
+1970-01-01 07:35:11.803441: ToggleWindow called
+1970-01-01 07:35:11.803800: OpenWindow called with flags: ''
+1970-01-01 07:35:11.812278: AutoUpdate called [/home/setya/.config/nvim/__Tagbar__.1]
+1970-01-01 07:35:11.812543: Still opening window, stopping processing
+1970-01-01 07:35:11.813526: InitWindow called with autoclose: 0
+1970-01-01 07:35:11.827580: AutoUpdate called [/home/setya/.config/nvim/__Tagbar__.1]
+1970-01-01 07:35:11.827894: In Tagbar window, stopping processing
+1970-01-01 07:35:11.829514: InitWindow finished
+1970-01-01 07:35:11.829733: AutoUpdate called [/home/setya/.config/nvim/lua/plugins/lsp-config.lua]
+1970-01-01 07:35:11.830017: Vim filetype: 'lua', sanitized filetype: 'lua'
+1970-01-01 07:35:11.830253: Checking if file is valid [/home/setya/.config/nvim/lua/plugins/lsp-config.lua]
+1970-01-01 07:35:11.830730: File data seems up to date [/home/setya/.config/nvim/lua/plugins/lsp-config.lua]
+1970-01-01 07:35:11.831056: RenderContent called
+1970-01-01 07:35:11.831456: Redisplaying file [/home/setya/.config/nvim/lua/plugins/lsp-config.lua]
+1970-01-01 07:35:11.832411: PrintKinds called
+1970-01-01 07:35:11.832662: Printing kind: f, number of (top-level) tags: 3
+1970-01-01 07:35:11.834502: Setting current file [/home/setya/.config/nvim/lua/plugins/lsp-config.lua]
+1970-01-01 07:35:11.835601: Highlight pattern: '/^\%4l\s*[▾▸ ][-+# ]\?\zs\Vconfig \m\ze/'
+1970-01-01 07:35:11.844091: AutoUpdate finished successfully
+1970-01-01 07:35:11.844957: RenderContent called
+1970-01-01 07:35:11.845293: Redisplaying file [/home/setya/.config/nvim/lua/plugins/lsp-config.lua]
+1970-01-01 07:35:11.845732: PrintKinds called
+1970-01-01 07:35:11.845896: Printing kind: f, number of (top-level) tags: 3
+1970-01-01 07:35:11.848199: Highlight pattern: '/^\%5l\s*[▾▸ ][-+# ]\?\zs\Vconfig \m\ze/'
+1970-01-01 07:35:11.853832: AutoUpdate called [/home/setya/.config/nvim/lua/plugins/lsp-config.lua]
+1970-01-01 07:35:11.854012: Vim filetype: 'lua', sanitized filetype: 'lua'
+1970-01-01 07:35:11.854088: Checking if file is valid [/home/setya/.config/nvim/lua/plugins/lsp-config.lua]
+1970-01-01 07:35:11.854308: File data seems up to date [/home/setya/.config/nvim/lua/plugins/lsp-config.lua]
+1970-01-01 07:35:11.854531: Setting current file [/home/setya/.config/nvim/lua/plugins/lsp-config.lua]
+1970-01-01 07:35:11.855103: goto_win(): wincmd p, 1
+1970-01-01 07:35:11.855244: goto_win(): 2wincmd w, 1
+1970-01-01 07:35:11.855483: goto_win(): 2wincmd w, 1
+1970-01-01 07:35:11.855588: goto_win(): 1wincmd w, 1
+1970-01-01 07:35:11.855667: AutoUpdate finished successfully
+1970-01-01 07:35:11.855940: OpenWindow finished
+1970-01-01 07:35:11.856007: ToggleWindow finished
+1970-01-01 07:35:12.470770: ToggleWindow called
+1970-01-01 07:35:12.471105: CloseWindow called
+1970-01-01 07:35:12.471529: goto_win(): 2wincmd w, 0
+1970-01-01 07:35:12.476037: AutoUpdate called [/home/setya/.config/nvim/__Tagbar__.1]
+1970-01-01 07:35:12.476236: In Tagbar window, stopping processing
+1970-01-01 07:35:12.479017: AutoUpdate called [/home/setya/.config/nvim/lua/plugins/lsp-config.lua]
+1970-01-01 07:35:12.479120: Vim filetype: 'lua', sanitized filetype: 'lua'
+1970-01-01 07:35:12.479168: Checking if file is valid [/home/setya/.config/nvim/lua/plugins/lsp-config.lua]
+1970-01-01 07:35:12.479304: File data seems up to date [/home/setya/.config/nvim/lua/plugins/lsp-config.lua]
+1970-01-01 07:35:12.479402: Setting current file [/home/setya/.config/nvim/lua/plugins/lsp-config.lua]
+1970-01-01 07:35:12.479700: AutoUpdate finished successfully
+1970-01-01 07:35:12.479788: goto_win(): 1wincmd w, 0
+1970-01-01 07:35:12.479860: CloseWindow finished
+1970-01-01 07:35:16.494857: AutoUpdate called [/home/setya/.config/nvim/lua/plugins/lsp-config.lua]
+1970-01-01 07:35:16.495387: Vim filetype: 'lua', sanitized filetype: 'lua'
+1970-01-01 07:35:16.502221: Checking if file is valid [/home/setya/.config/nvim/lua/plugins/lsp-config.lua]
+1970-01-01 07:35:16.502914: File data seems up to date [/home/setya/.config/nvim/lua/plugins/lsp-config.lua]
+1970-01-01 07:35:16.503303: Setting current file [/home/setya/.config/nvim/lua/plugins/lsp-config.lua]
+1970-01-01 07:35:16.504471: AutoUpdate finished successfully
+1970-01-01 07:35:59.594970: AutoUpdate called [/home/setya/.config/nvim/]
+1970-01-01 07:35:59.595161: Vim filetype: '', sanitized filetype: ''
+1970-01-01 07:35:59.595221: Checking if file is valid [/home/setya/.config/nvim/]
+1970-01-01 07:35:59.595273: Empty filename or type
+1970-01-01 07:35:59.595320: Not a valid file, stopping processing
+1970-01-01 07:35:59.604495: AutoUpdate called [/home/setya/.config/nvim/TelescopePrompt]
+1970-01-01 07:35:59.604700: Vim filetype: '', sanitized filetype: ''
+1970-01-01 07:35:59.604757: Checking if file is valid [/home/setya/.config/nvim/TelescopePrompt]
+1970-01-01 07:35:59.604817: Empty filename or type
+1970-01-01 07:35:59.604866: Not a valid file, stopping processing
+1970-01-01 07:35:59.610265: AutoUpdate called [/home/setya/.config/nvim/TelescopeResults]
+1970-01-01 07:35:59.610463: Vim filetype: '', sanitized filetype: ''
+1970-01-01 07:35:59.610520: Checking if file is valid [/home/setya/.config/nvim/TelescopeResults]
+1970-01-01 07:35:59.610570: Empty filename or type
+1970-01-01 07:35:59.610616: Not a valid file, stopping processing
+1970-01-01 07:36:00.993596: AutoUpdate called [/home/setya/.config/nvim/lua/plugins/lsp-config.lua]
+1970-01-01 07:36:00.993789: Vim filetype: 'lua', sanitized filetype: 'lua'
+1970-01-01 07:36:00.993878: Checking if file is valid [/home/setya/.config/nvim/lua/plugins/lsp-config.lua]
+1970-01-01 07:36:00.994136: File data seems up to date [/home/setya/.config/nvim/lua/plugins/lsp-config.lua]
+1970-01-01 07:36:00.994355: Setting current file [/home/setya/.config/nvim/lua/plugins/lsp-config.lua]
+1970-01-01 07:36:00.994922: AutoUpdate finished successfully
+1970-01-01 07:36:01.002210: AutoUpdate called [/home/setya/.config/nvim/tagbardebug.log]
+1970-01-01 07:36:01.002389: Vim filetype: '', sanitized filetype: ''
+1970-01-01 07:36:01.002449: Checking if file is valid [/home/setya/.config/nvim/tagbardebug.log]
+1970-01-01 07:36:01.002507: Empty filename or type
+1970-01-01 07:36:01.002580: Not a valid file, stopping processing
+1970-01-01 07:36:01.006465: AutoUpdate called [/home/setya/.config/nvim/tagbardebug.log]
+1970-01-01 07:36:01.006627: Vim filetype: '', sanitized filetype: ''
+1970-01-01 07:36:01.006701: Checking if file is valid [/home/setya/.config/nvim/tagbardebug.log]
+1970-01-01 07:36:01.006748: Empty filename or type
+1970-01-01 07:36:01.006804: Not a valid file, stopping processing
+1970-01-01 07:36:03.935618: AutoUpdate called [/home/setya/.config/nvim/]
+1970-01-01 07:36:03.935757: Vim filetype: '', sanitized filetype: ''
+1970-01-01 07:36:03.935799: Checking if file is valid [/home/setya/.config/nvim/]
+1970-01-01 07:36:03.935835: Empty filename or type
+1970-01-01 07:36:03.935868: Not a valid file, stopping processing
+1970-01-01 07:36:03.942002: AutoUpdate called [/home/setya/.config/nvim/TelescopePrompt]
+1970-01-01 07:36:03.942155: Vim filetype: '', sanitized filetype: ''
+1970-01-01 07:36:03.942197: Checking if file is valid [/home/setya/.config/nvim/TelescopePrompt]
+1970-01-01 07:36:03.942233: Empty filename or type
+1970-01-01 07:36:03.942266: Not a valid file, stopping processing
+1970-01-01 07:36:03.946085: AutoUpdate called [/home/setya/.config/nvim/TelescopeResults]
+1970-01-01 07:36:03.946230: Vim filetype: '', sanitized filetype: ''
+1970-01-01 07:36:03.946271: Checking if file is valid [/home/setya/.config/nvim/TelescopeResults]
+1970-01-01 07:36:03.946307: Empty filename or type
+1970-01-01 07:36:03.946340: Not a valid file, stopping processing
+1970-01-01 07:36:09.969108: AutoUpdate called [/home/setya/.config/nvim/tagbardebug.log]
+1970-01-01 07:36:09.969251: Vim filetype: '', sanitized filetype: ''
+1970-01-01 07:36:09.969316: Checking if file is valid [/home/setya/.config/nvim/tagbardebug.log]
+1970-01-01 07:36:09.969368: Empty filename or type
+1970-01-01 07:36:09.969412: Not a valid file, stopping processing
+1970-01-01 07:36:09.971933: AutoUpdate called [/home/setya/.config/nvim/lua/plugins/tagbar.lua]
+1970-01-01 07:36:09.972077: Vim filetype: 'lua', sanitized filetype: 'lua'
+1970-01-01 07:36:09.972141: Checking if file is valid [/home/setya/.config/nvim/lua/plugins/tagbar.lua]
+1970-01-01 07:36:09.972329: File data seems up to date [/home/setya/.config/nvim/lua/plugins/tagbar.lua]
+1970-01-01 07:36:09.972468: Setting current file [/home/setya/.config/nvim/lua/plugins/tagbar.lua]
+1970-01-01 07:36:09.972797: AutoUpdate finished successfully
+1970-01-01 07:36:19.782243: AutoUpdate called [/home/setya/.config/nvim/lua/plugins/tagbar.lua]
+1970-01-01 07:36:19.782633: Vim filetype: 'lua', sanitized filetype: 'lua'
+1970-01-01 07:36:19.782785: Checking if file is valid [/home/setya/.config/nvim/lua/plugins/tagbar.lua]
+1970-01-01 07:36:19.783270: File data seems up to date [/home/setya/.config/nvim/lua/plugins/tagbar.lua]
+1970-01-01 07:36:19.783606: Setting current file [/home/setya/.config/nvim/lua/plugins/tagbar.lua]
+1970-01-01 07:36:19.784484: AutoUpdate finished successfully
+1970-01-01 07:36:50.127045: AutoUpdate called [/home/setya/.config/nvim/cmp_menu]
+1970-01-01 07:36:50.127603: Vim filetype: '', sanitized filetype: ''
+1970-01-01 07:36:50.127752: Checking if file is valid [/home/setya/.config/nvim/cmp_menu]
+1970-01-01 07:36:50.127882: Empty filename or type
+1970-01-01 07:36:50.128000: Not a valid file, stopping processing

@@ -11,6 +11,6 @@ return {
 			},
 		})
 
-		vim.keymap.set("n", "fm", vim.lsp.buf.format, {})
+		vim.keymap.set("n", "<Space>fm", vim.lsp.buf.format, {})
 	end,
 }
